@@ -9,23 +9,24 @@ import AllProducts from './components/sections/AllProducts';
 import Testimonials from './components/sections/Testimonials';
 import CTA from './components/sections/CTA';
 import Footer from './components/layout/Footer';
-
+import
 const App = () => {
   return (
-      <div className="min-h-screen bg-neutral-light font-sans">
-            <Navigation />
-                  <main className="pt-16 lg:pt-20">
-                          <Hero />
-                                  <Features />
-                                          <NewProducts />
-                                                  <About />
-                                                          <AllProducts />
-                                                                  <Testimonials />
-                                                                          <CTA />
-                                                                                </main>
-                                                                                      <Footer />
-                                                                                          </div>
-                                                                                            );
-                                                                                            };
+    <div className="min-h-screen bg-neutral-light font-sans">
+      <Navigation />
+      <main className="pt-16 lg:pt-20">
+        <Hero />
+        <Features />
+        <NewProducts />
+        <About />
+        <AllProducts />
+        <Testimonials />
+        <CTA />
+        <images />
+      </main>
+      <Footer />
+    </div>
+  );
+};
 
-                                                                                            export default App;
+export default App;

@@ -2,7 +2,7 @@
 import React from 'react';
 import Card from '../common/Card';
 import SectionWrapper from '../common/SectionWrapper';
-
+import images from '../assets/images';
 const newProductsData = [
   { title: 'Langstroth Hive', imageSrc: '/assets/images/langstroth-hive.jpg', alt: 'Wooden Langstroth beehive', description: 'Durable starter hive' },
     { title: 'Bee Suit', imageSrc: '/assets/images/bee-suit.jpg', alt: 'Protective beekeeping suit', description: 'Ventilated protection' },

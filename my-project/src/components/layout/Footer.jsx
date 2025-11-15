@@ -1,6 +1,7 @@
 // src/components/layout/Footer.jsx
 import React from 'react';
 import ResponsiveImage from '../common/ResponsiveImage';
+import images  from '../../assets/images.js'
 
 const Footer = () => {
   const footerLinks = [

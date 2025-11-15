@@ -33,3 +33,15 @@ path: /assets/images/apiary-overview.jpg
 links:https://https://i.pinimg.com/736x/2b/3d/bc/2b3dbca0627c1bbd7fa95b40e516a427.jpg
 
 
+title: 
+    description: 
+    imageSrc:
+    alt: 
+    price: 
+    discount:
+
+id:6
+name: logo-beehive-essentials
+path: /assets/images/logo-beehive-essentials.png
+alt: BeeHive Essentials Logo
+links:https://https://i.pinimg.com/736x/ca/36/bf/ca36bfebababbdfaf404d280435a95ad.jpg
